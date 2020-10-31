@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shymmy W. Garcia</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 👨🏻‍💻 I’m currently working on **Globant**
+- 👨🏻‍💻 I’m currently working on **Learn somethig new**
 
 - 📚 I’m currently learning **EOSIO, smartcontracts and blockchain**
 
@@ -12,11 +12,6 @@
 - 💬 Ask me about **javascript, react, graphql**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shymmywgarcia/](https://www.linkedin.com/in/shymmywgarcia/)
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
